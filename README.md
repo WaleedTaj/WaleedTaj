@@ -72,19 +72,6 @@
 
 ---
 
-// <h2 align="center">🌟 Featured Projects</h2>
-
-// <p align="center">
-//  <a href="https://github.com/WaleedTaj/MosamApp">
-//    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=MosamApp&theme=radical" //alt="Mosam App" />
-//  </a>
- //   <a href="https://github.com/WaleedTaj/YourKitchen">
-   // <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=YourKitchen&theme=radical" //alt="Your Kitchen App" />
- // </a>
-//</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!" />
 </p>
