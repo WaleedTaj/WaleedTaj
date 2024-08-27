@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/waleed-taj" target="_blank">Waleed Taj</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4" target="_blank">Waleed Taj</a> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -24,7 +24,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:waleedtaj420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
