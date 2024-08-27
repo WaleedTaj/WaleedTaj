@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/WaleedTaj/WaleedTaj/blob/main/banner.png" alt="Waleed Taj Banner" />
-</p>
-
-<p align="center">
   🚀 Passionate about building beautiful and functional mobile applications with Flutter.
 </p>
 
@@ -29,8 +25,7 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/waleed-taj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -77,24 +72,16 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity</h2>
+// <h2 align="center">🌟 Featured Projects</h2>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=WaleedTaj&theme=radical" alt="Waleed's GitHub activity graph" />
-</p>
-
----
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/WaleedTaj/MosamApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=MosamApp&theme=radical" alt="Mosam App" />
-  </a>
-  <a href="https://github.com/WaleedTaj/YourKitchen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=YourKitchen&theme=radical" alt="Your Kitchen App" />
-  </a>
-</p>
+// <p align="center">
+//  <a href="https://github.com/WaleedTaj/MosamApp">
+//    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=MosamApp&theme=radical" //alt="Mosam App" />
+//  </a>
+ //   <a href="https://github.com/WaleedTaj/YourKitchen">
+   // <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaleedTaj&repo=YourKitchen&theme=radical" //alt="Your Kitchen App" />
+ // </a>
+//</p>
 
 ---
 
