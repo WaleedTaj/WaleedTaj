@@ -108,6 +108,6 @@
 
 <p align="center">
   <a href="https://www.ahlesunnatpak.com" target="_blank">
-    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting! Click Here and See Magic" />
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20Click%20Here!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!" />
   </a>
 </p>
