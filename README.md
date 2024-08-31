@@ -7,8 +7,8 @@
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+   <a href="https://www.canva.com" target="_blank">
+    <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
 
