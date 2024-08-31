@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4" target="_blank">Waleed Taj</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.ahlesunnatpak.com" target="_blank">Waleed Taj</a> 👋</h1>
 
 <p align="center">
   <a href="https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcLJKP-pWw2n1CR4pAPnk6jrgHS0_zh8-4FbsLVkYbExW2isAMyLPVMaAnc8EALw_wcB&gclsrc=aw.ds" target="_blank">
@@ -107,7 +107,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/WaleedTaj?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!" />
+  <a href="https://www.ahlesunnatpak.com" target="_blank">
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!\nClick Here and See Magic" />
   </a>
 </p>
