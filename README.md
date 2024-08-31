@@ -45,12 +45,17 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/sun--v2.png" alt="Sun Icon" />
-  <b>Developed:</b> A weather app called **"Mosam App."**
+  <b>Weather Watcher:</b> I’m fascinated by weather patterns and how technology can interpret them.
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/kitchen-room.png" alt="Kitchen Icon" />
-  <b>Created:</b> A recipe app named **"Your Kitchen."**
+  <img src="https://img.icons8.com/color/48/000000/brainstorm.png" alt="Brainstorm Icon" />
+  <b>Problem Solver:</b> Tackling complex coding challenges is my idea of fun.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/film-reel.png" alt="Film Reel Icon" />
+  <b>Tech Enthusiast:</b> I’m always exploring new tools and technologies to enhance my skills.
 </p>
 
 <p align="center">
