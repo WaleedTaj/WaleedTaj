@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4" target="_blank">Waleed Taj</a> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src = "
+[![Flutter Intermediate](https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcLJKP-pWw2n1CR4pAPnk6jrgHS0_zh8-4FbsLVkYbExW2isAMyLPVMaAnc8EALw_wcB&gclsrc=aw.ds)" />
   <img src="https://img.shields.io/badge/Dart-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
