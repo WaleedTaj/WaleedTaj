@@ -87,6 +87,9 @@
   <a href="https://firebase.google.com" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </a>
+  <a href="https://www.openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-4F4F4F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  </a>
     <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   </a>
@@ -96,15 +99,15 @@
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
-   <a href="https://www.canva.com" target="_blank">
-    <img src="https://img.shields.io/badge/Video%20Editing?style=for-the-badge&logo=canva&logoColor=white" />
+  <a href="https://www.canva.com" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/WaleedTaj" target="_blank">
+  <a href="https://github.com/WaleedTaj?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!" />
   </a>
 </p>
