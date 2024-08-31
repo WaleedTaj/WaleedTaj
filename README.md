@@ -84,7 +84,10 @@
   <a href="https://dart.dev" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   </a>
-  <a href="https://developer.android.com/studio" target="_blank">
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+    <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   </a>
   <a href="https://git-scm.com" target="_blank">
@@ -94,7 +97,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
    <a href="https://www.canva.com" target="_blank">
-    <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Video%20Editing?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
 
