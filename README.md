@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/sun--v2.png" alt="Sun Icon" />
-  <b>Weather Watcher:</b> I’m fascinated by weather patterns and how technology can interpret them.
+  <b>Pattern Enthusiast:</b> I’m fascinated by patterns and how technology can interpret them.
 </p>
 
 <p align="center">
