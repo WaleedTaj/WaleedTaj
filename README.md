@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" alt="Coding Icon" />
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon" />
   <b>Tech Enthusiast:</b> I’m always exploring new tools and technologies to enhance my skills.
 </p>
 
@@ -62,7 +62,6 @@
   <img src="https://img.icons8.com/color/48/000000/film-reel.png" alt="Film Reel Icon" />
   <b>Video Editing:</b> I'm also a video editing enthusiast!
 </p>
-
 
 ---
 
