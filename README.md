@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Dart%20Programming-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
   <a href="https://firebase.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase%20Integration-Beginner-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Firebase%20Integration-Intermediate-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
   <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
