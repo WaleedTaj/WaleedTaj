@@ -31,7 +31,7 @@
 <h2 align="center">👀 About Me</h2>
 
 - 💻 **Flutter Developer:** Building dynamic, responsive, and user-friendly apps with Flutter and Dart.  
-- 🌱 **Currently Exploring:** Advanced Flutter techniques, Riverpod, Advanced API integration, and UI/UX improvements.  
+- 🌱 **Currently Exploring:** Advanced Flutter techniques, Advanced State Management, Advanced API integration, and UI/UX improvements.  
 - 🎯 **Passionate About:** Problem-solving, crafting smooth user experiences, and learning new tech.  
 - 💬 **Let’s Build Something Great:** Always open to exciting Flutter projects and collaborations!  
 
