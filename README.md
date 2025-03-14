@@ -116,8 +116,9 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
   <a href="https://www.capcut.com" target="_blank">
-    <img src="https://img.shields.io/badge/CapCut-1DBF73?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/CapCut-1DBF73?style=for-the-badge&logoColor=white&logo=https://upload.wikimedia.org/wikipedia/commons/8/8d/CapCut_Logo.png" alt="CapCut" />
   </a>
+
 
 
 </p>
