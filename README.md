@@ -81,7 +81,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&theme=radical" alt="Waleed's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&theme=radical" alt="Waleed's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedTaj&theme=radical&v=1" alt="Waleed's GitHub streaks" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedTaj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
