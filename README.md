@@ -1,30 +1,42 @@
 <h1 align="center">Hi there, I'm <a href="https://www.ahlesunnatpak.com" target="_blank">Waleed Taj</a> 👋</h1>
 
+<!-- Core Skills & Specialties Section -->
+<h2 align="center">🚀 Core Skills & Specialties</h2>
+
 <p align="center">
-  <a href="https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcLJKP-pWw2n1CR4pAPnk6jrgHS0_zh8-4FbsLVkYbExW2isAMyLPVMaAnc8EALw_wcB&gclsrc=aw.ds" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter%20App%20Development-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dart%20Programming-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
-   <a href="https://www.canva.com" target="_blank">
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase%20Integration-Beginner-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a>
+  <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/Documentation%20%26%20Presentations-Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   </a>
 </p>
 
 
 <p align="center">
-  🚀 Passionate about building beautiful and functional mobile applications with Flutter.
+  🚀 Passionate about creating dynamic, responsive, and user-friendly mobile applications with Flutter and Dart.
 </p>
 
 ---
 
 <h2 align="center">👀 About Me</h2>
 
-- 💻 **Flutter Developer:** Intermediate level, continuously learning and improving.
-- 🌱 **Currently Learning:** Advanced Flutter techniques, API integration, and UI/UX design principles.
-- 🎯 **Interests:** Mobile app development, problem-solving, and crafting seamless user experiences.
-- 💬 **Let’s Collaborate:** Open to collaborating on Flutter projects that challenge and inspire growth.
+- 💻 **Flutter Developer:** Building dynamic, responsive, and user-friendly apps with Flutter and Dart.  
+- 🌱 **Currently Exploring:** Advanced Flutter techniques, Riverpod, Advanced API integration, and UI/UX improvements.  
+- 🎯 **Passionate About:** Problem-solving, crafting smooth user experiences, and learning new tech.  
+- 💬 **Let’s Build Something Great:** Always open to exciting Flutter projects and collaborations!  
 
 ---
 
@@ -37,6 +49,8 @@
   <a href="https://www.facebook.com/share/1BbSimLoZK/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> 
   <a href="https://instagram.com/waleedtaj313?igsh=cDhyeWs0MG1kbWJy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
   <a href="https://github.com/WaleedTaj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://stackoverflow.com/users/23638739/waleed-taj"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://wa.me/923134478862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -55,12 +69,12 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon" />
-  <b>Tech Enthusiast:</b> I’m always exploring new tools and technologies to enhance my skills.
+  <b>Tech Explorer:</b> I’m passionate about discovering and mastering new tools and technologies.
 </p>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/film-reel.png" alt="Film Reel Icon" />
-  <b>Video Editing:</b> I'm also a video editing enthusiast!
+  <b>Creative Side:</b> I enjoy exploring creative projects, like video editing, to bring ideas to life.
 </p>
 
 ---
@@ -71,6 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&theme=radical" alt="Waleed's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedTaj&theme=radical" alt="Waleed's GitHub streaks" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedTaj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -90,17 +106,20 @@
   <a href="https://www.openai.com/chatgpt" target="_blank">
     <img src="https://img.shields.io/badge/ChatGPT-4F4F4F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   </a>
-    <a href="https://developer.android.com/studio" target="_blank">
+  <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
+  <a href="https://www.capcut.com" target="_blank">
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   </a>
 </p>
 
