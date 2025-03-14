@@ -1,30 +1,25 @@
-Here’s an updated version of your README based on your latest data:
-
-
----
-
 <h1 align="center">Hi there, I'm <a href="https://www.ahlesunnatpak.com" target="_blank">Waleed Taj</a> 👋</h1><p align="center">
-  <a href="https://flutter.dev/" target="_blank">
+  <a href="https://flutter.dev" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
-   <a href="https://www.canva.com" target="_blank">
+  <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p><p align="center">
-  🚀 Passionate about building responsive, beautiful, and functional mobile apps with Flutter.
+  🚀 Passionate about crafting smooth, beautiful, and functional mobile applications with Flutter.
 </p>
 ---
 
-<h2 align="center">👀 About Me</h2>💻 Flutter Developer: Intermediate level, continuously growing.
+<h2 align="center">👀 About Me</h2>💻 Flutter Developer: Intermediate level — always learning, always improving.
 
-🌱 Currently Learning: Riverpod, advanced Flutter techniques, API integration, and UI/UX design improvements.
+🔥 Currently Learning: Riverpod, advanced API integration, and UI/UX principles.
 
-🎯 Interests: Mobile app development, problem-solving, UI animations, and crafting seamless user experiences.
+🎯 Interests: Mobile development, pattern recognition, and problem-solving.
 
-💬 Let’s Collaborate: Open to collaborating on Flutter projects that inspire creativity and growth.
+💬 Let’s Collaborate: Open to exciting Flutter projects that inspire growth and innovation.
 
 
 
@@ -35,23 +30,23 @@ Here’s an updated version of your README based on your latest data:
   <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://www.youtube.com/@flutterglobe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> 
   <a href="https://web.facebook.com/profile.php?id=61564931501220"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> 
-  <a href="https://instagram.com/flutterglobe?igsh=cDhyeWs0MG1kbWJy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+  <a href="https://instagram.com/flutterglobe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
   <a href="https://github.com/WaleedTaj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 ---
 
 <h2 align="center">⚡ Fun Facts</h2><p align="center">
   <img src="https://img.icons8.com/color/48/000000/sun--v2.png" alt="Sun Icon" />
-  <b>Pattern Enthusiast:</b> I’m fascinated by patterns and how technology can interpret them.
+  <b>Pattern Enthusiast:</b> I’m fascinated by patterns and how tech interprets them.
 </p><p align="center">
   <img src="https://img.icons8.com/color/48/000000/puzzle.png" alt="Puzzle Icon" />
-  <b>Problem Solver:</b> Tackling complex coding challenges is my idea of fun.
+  <b>Problem Solver:</b> Tackling tricky coding challenges is my kind of fun.
 </p><p align="center">
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon" />
-  <b>Tech Explorer:</b> I’m always exploring new tools and technologies to level up my skills.
+  <b>Tech Explorer:</b> I’m always diving into new tools to enhance my skills.
 </p><p align="center">
   <img src="https://img.icons8.com/color/48/000000/film-reel.png" alt="Film Reel Icon" />
-  <b>Video Editor:</b> From mobile apps to Canva and Clipchamp — I enjoy crafting cool edits.
+  <b>Video Editing:</b> From mobile to PC, I enjoy editing creative content!
 </p>
 ---
 
@@ -95,7 +90,3 @@ Here’s an updated version of your README based on your latest data:
     <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-1DA1F2?style=for-the-badge&logo=github" alt="Thanks for visiting!" />
   </a>
 </p>
----
-
-Would you like me to add a project showcase section with links to your completed apps too? 🚀✨
-
