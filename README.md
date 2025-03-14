@@ -81,7 +81,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&theme=radical" alt="Waleed's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedTaj&theme=radical" alt="Waleed's GitHub streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedTaj&theme=radical&v=1" alt="Waleed's GitHub streaks" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedTaj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -112,15 +112,12 @@
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
+  <a href="https://www.capcut.com" target="_blank">
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  </a>
   <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
-  <a href="https://www.capcut.com" target="_blank">
-  <img src="https://img.shields.io/badge/CapCut-1DBF73?style=for-the-badge&logoColor=white&logo=https://upload.wikimedia.org/wikipedia/commons/8/8d/CapCut_Logo.png" alt="CapCut" />
-  </a>
-
-
-
 </p>
 
 ---
