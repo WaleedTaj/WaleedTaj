@@ -16,9 +16,6 @@
   <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Video%20Editing-Enthusiast-brightgreen?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
     <img src="https://img.shields.io/badge/Documentation%20%26%20Presentations-Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   </a>
@@ -119,8 +116,9 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
   <a href="https://www.capcut.com" target="_blank">
-    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  </a>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAByElEQVR4nO3YMW7CQBAF0N0f3r2PeQfekIzDmHqBRAtllGJG5p28eZvvHlpfLgM4XRxREREREREREREREREREREREREREREREREREREREREaQ1+nc3urHw/9APW1fFlxD8/OxzA+AGAcB/lYMYAzPT3RuFwqXq/vbi33UAG7kl0k3eQK5AIAVP19Y3ME9U8TzMs0ATLRMy8AGukWeAZXURERERERERERERERERERERERERERERERERERERERERENC3xQOdtAfWtGfdx9nAFJniW2/hjgw+7AEsAXLX+vINb/D9QBOzD5uxKwC5qoIdtAs3wKmgBtM03IQHpzoB8rQxu2xPXm5pJXxTR7ZKOSl9EONugHDygztOmXKHQAAAABJRU5ErkJggg==" alt="CapCut" />
+</a>
+
 </p>
 
 ---
