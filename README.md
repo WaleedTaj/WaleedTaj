@@ -110,10 +110,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.capcut.com" target="_blank">
-    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=data:image/png;base64,..." alt="CapCut" />
   </a>
   <a href="https://www.canva.com" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
