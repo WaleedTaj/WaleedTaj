@@ -13,7 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I'm a Flutter Developer with around 3 years of hands-on experience building and maintaining production mobile applications for Android and iOS.
+I'm a Flutter Developer with 3+ years of hands-on experience building and maintaining production mobile applications for Android and iOS.
 </p>
 
 <p align="center">
