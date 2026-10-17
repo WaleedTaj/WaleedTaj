@@ -83,180 +83,207 @@ Connect APIs, backend services, and AI capabilities.
 
 ## ✦ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<th align="left">DOMAIN</th>
+<th align="left">TECHNOLOGIES & SKILLS</th>
+</tr>
 
-### 📱 Mobile Development
+<tr>
+<td>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
+**📱 Mobile**
 
-<br/><br/>
+</td>
+<td>
 
-### 🎨 UI & Architecture
+<img src="https://img.shields.io/badge/Flutter-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70"/>
+<img src="https://img.shields.io/badge/Dart-1E1E1F?style=flat-square&logo=dart&logoColor=FFDB70"/>
+<img src="https://img.shields.io/badge/Android-1E1E1F?style=flat-square&logo=android&logoColor=FFDB70"/>
+<img src="https://img.shields.io/badge/iOS-1E1E1F?style=flat-square&logo=apple&logoColor=FFDB70"/>
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Responsive%20UI-1E1E1F?style=for-the-badge&logo=flutter&logoColor=FFDB70" alt="Responsive UI"/>
-<img src="https://img.shields.io/badge/State%20Management-1E1E1F?style=for-the-badge&logo=dart&logoColor=FFDB70" alt="State Management"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1F?style=for-the-badge&logo=buffer&logoColor=FFDB70" alt="Clean Architecture"/>
+**🧩 Architecture**
 
-<br/><br/>
+</td>
+<td>
 
-### 🔌 Backend & Database
+`Clean Architecture` · `State Management` · `Responsive UI` · `Reusable Widgets`
 
-<img src="https://skillicons.dev/icons?i=firebase,postgres,supabase&theme=dark" alt="Firebase, PostgreSQL and Supabase"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/REST%20APIs-1E1E1F?style=for-the-badge&logo=fastapi&logoColor=FFDB70" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Serverpod-1E1E1F?style=for-the-badge&logo=dart&logoColor=FFDB70" alt="Serverpod"/>
-<img src="https://img.shields.io/badge/Authentication-1E1E1F?style=for-the-badge&logo=auth0&logoColor=FFDB70" alt="Authentication"/>
+**🔌 Backend & Data**
 
-<br/><br/>
+</td>
+<td>
 
-### 🤖 AI & Integrations
+`Firebase` · `REST APIs` · `Authentication` · `Local Storage` · `Caching`
 
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="OpenAI"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/AI%20Integration-1E1E1F?style=for-the-badge&logo=openai&logoColor=FFDB70" alt="AI Integration"/>
-<img src="https://img.shields.io/badge/LLM%20APIs-1E1E1F?style=for-the-badge&logo=googlegemini&logoColor=FFDB70" alt="LLM APIs"/>
-<img src="https://img.shields.io/badge/Google%20Maps-1E1E1F?style=for-the-badge&logo=googlemaps&logoColor=FFDB70" alt="Google Maps"/>
-<img src="https://img.shields.io/badge/Geolocation-1E1E1F?style=for-the-badge&logo=googlemaps&logoColor=FFDB70" alt="Geolocation"/>
+**🤖 AI & Integrations**
 
-<br/><br/>
+</td>
+<td>
 
-### ⚙️ Development & Release Tools
+`AI Integration` · `LLM APIs` · `Google Maps` · `Geolocation` · `Notifications`
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,apple,docker&theme=dark" alt="Git, GitHub, Android Studio, VS Code, Apple and Docker"/>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Google%20Play%20Console-1E1E1F?style=for-the-badge&logo=googleplay&logoColor=FFDB70" alt="Google Play Console"/>
-<img src="https://img.shields.io/badge/App%20Store%20Connect-1E1E1F?style=for-the-badge&logo=appstore&logoColor=FFDB70" alt="App Store Connect"/>
-<img src="https://img.shields.io/badge/CI%2FCD-1E1E1F?style=for-the-badge&logo=githubactions&logoColor=FFDB70" alt="CI/CD"/>
+**⚙️ Tools**
 
-</div>
+</td>
+<td>
+
+`Git` · `GitHub` · `Android Studio` · `VS Code` · `Xcode` · `App Publishing`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**🌱 Learning**
+
+</td>
+<td>
+
+`Serverpod` · `PostgreSQL` · `Backend Development` · `System Design`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ✦ Featured Projects
 
+<div align="center">
+
+### Applications I've Worked On
+
+<sub>A selection of mobile products, engineering challenges, and solutions.</sub>
+
+<br/>
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<th width="8%" align="center">NO.</th>
+<th width="42%" align="left">APPLICATION</th>
+<th width="50%" align="left">ENGINEERING HIGHLIGHT</th>
+</tr>
 
-<div align="center">
+<tr>
+<td align="center">
+
+`01`
+
+</td>
+<td>
 
 ### 🏫 SLMS360
 
-**SCHOOL MANAGEMENT SYSTEM**
-
-</div>
-
----
-
-Staff operations and attendance management for educational institutions.
-
-**Key Features**
-
-- QR-based staff attendance
-- Location-based verification
-- Staff, leave, and salary workflows
-- Application performance improvements
-
-<br/>
-
-<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
-<img src="https://img.shields.io/badge/REST%20APIs-1E1E1F?style=flat-square&logo=fastapi&logoColor=FFDB70" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/GEOLOCATION-1E1E1F?style=flat-square&logo=googlemaps&logoColor=FFDB70" alt="Geolocation"/>
+School Management System
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-<div align="center">
-
-### 🎨 Toddlers App Staff
-
-**EDUCATION & STAFF MANAGEMENT**
-
-</div>
-
----
-
-A mobile application supporting classroom and staff workflows.
-
-**Key Features**
-
-- Attendance and history
-- Classroom activities
-- Timetables and communication
-- UI restructuring and optimization
+<img src="https://img.shields.io/badge/~40%25-PERFORMANCE_GAIN-FFDB70?style=flat-square&labelColor=1E1E1F"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
-<img src="https://img.shields.io/badge/UI%2FUX-1E1E1F?style=flat-square&logo=figma&logoColor=FFDB70" alt="UI and UX"/>
-<img src="https://img.shields.io/badge/REFACTORING-1E1E1F?style=flat-square&logo=dart&logoColor=FFDB70" alt="Refactoring"/>
+QR attendance, geolocation verification, and operational workflows.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-<div align="center">
+<tr>
+<td align="center">
+
+`02`
+
+</td>
+<td>
+
+### 🎨 Toddlers App Staff
+
+Education Management
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/~30%25-PERFORMANCE_GAIN-FFDB70?style=flat-square&labelColor=1E1E1F"/>
+
+<br/>
+
+UI restructuring, classroom features, and staff workflows.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+`03`
+
+</td>
+<td>
 
 ### 🕌 DeenLink
 
-**ISLAMIC UTILITY APPLICATION**
+Islamic Companion
 
-</div>
+</td>
+<td>
 
----
-
-An Islamic mobile experience designed around Quran reading and everyday worship.
-
-**Key Features**
-
-- Quran reading
-- Duas and Azkar
-- Offline content
-- Reading experience improvements
+<img src="https://img.shields.io/badge/FOCUS-OFFLINE_EXPERIENCE-FFDB70?style=flat-square&labelColor=1E1E1F"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
-<img src="https://img.shields.io/badge/OFFLINE%20SUPPORT-1E1E1F?style=flat-square&logo=databricks&logoColor=FFDB70" alt="Offline Support"/>
-<img src="https://img.shields.io/badge/ARABIC%20CONTENT-1E1E1F?style=flat-square&logo=readme&logoColor=FFDB70" alt="Arabic Content"/>
+Quran reading, Duas, Azkar, and localized content.
 
 </td>
-<td width="50%" valign="top">
+</tr>
 
-<div align="center">
+<tr>
+<td align="center">
+
+`04`
+
+</td>
+<td>
 
 ### 🩸 BloodSync
 
-**BLOOD DONATION**
+Blood Donation
 
-</div>
+</td>
+<td>
 
----
-
-A project focused on using mobile technology to support blood donation needs.
-
-**Project Focus**
-
-- Mobile-first experience
-- User-facing workflows
-- Healthcare-oriented problem solving
-- Cross-platform development
+<img src="https://img.shields.io/badge/FOCUS-MOBILE_ACCESSIBILITY-FFDB70?style=flat-square&labelColor=1E1E1F"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
-<img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-1E1E1F?style=flat-square&logo=android&logoColor=FFDB70" alt="Mobile Development"/>
+Cross-platform development for a community-focused use case.
 
 </td>
 </tr>
@@ -267,7 +294,7 @@ A project focused on using mobile technology to support blood donation needs.
 <br/>
 
 <a href="https://waleedtaj.github.io/projects/">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Explore all projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212"/>
 </a>
 
 </div>
