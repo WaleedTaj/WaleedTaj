@@ -1,229 +1,324 @@
 <div align="center">
 
-# Waleed Mehmood
-### Flutter Developer · Mobile Application Engineer
-
-Building production-ready mobile applications with Flutter, integrating AI,
-and turning complex requirements into reliable digital products.
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:121212,50:29251A,100:FFDB70&text=Waleed%20Mehmood&fontColor=FFDB70&fontSize=48&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20MOBILE%20APPLICATION%20ENGINEER&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Waleed Mehmood — Flutter Developer"/>
 
 <a href="https://waleedtaj.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFDB70?style=for-the-badge&logo=planetscale&logoColor=1E1E1F" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4">
-  <img src="https://img.shields.io/badge/LINKEDIN-1E1E1F?style=for-the-badge&logo=linkedin&logoColor=FFDB70" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-1E1E1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=FFDB70" alt="LinkedIn"/>
 </a>
 <a href="mailto:waleedtaj420@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-1E1E1F?style=for-the-badge&logo=gmail&logoColor=FFDB70" alt="Email"/>
 </a>
+<a href="https://github.com/WaleedTaj">
+  <img src="https://img.shields.io/badge/GITHUB-1E1E1F?style=for-the-badge&logo=github&logoColor=FFDB70" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/3%2B%20Years-Experience-FFDB70?style=flat-square&labelColor=1E1E1F" alt="Experience"/>
-<img src="https://img.shields.io/badge/16%2B-Apps%20Worked%20On-FFDB70?style=flat-square&labelColor=1E1E1F" alt="Apps"/>
-<img src="https://img.shields.io/badge/9%2B-Published%20Apps-FFDB70?style=flat-square&labelColor=1E1E1F" alt="Published Apps"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FFDB70&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Building+Android+%26+iOS+Applications;Exploring+AI+%26+Backend+Engineering;Turning+Complex+Ideas+Into+Products" alt="Animated typing introduction"/>
+</a>
+
+<br/>
+
+*Flutter Developer building scalable Android and iOS applications, from intuitive interfaces to complex business solutions.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/3%2B%20YEARS-EXPERIENCE-1E1E1F?style=for-the-badge&labelColor=FFDB70" alt="Experience"/>
+<img src="https://img.shields.io/badge/MOBILE-ANDROID%20%26%20IOS-1E1E1F?style=for-the-badge&labelColor=FFDB70" alt="Mobile Development"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ENGINEERING-1E1E1F?style=for-the-badge&labelColor=FFDB70" alt="AI and Engineering"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ✦ About Me
 
-I'm a **Flutter Developer with 3+ years of experience** building and
-maintaining cross-platform mobile applications for Android and iOS.
+<div align="center">
 
-My experience spans production applications, complex UI development,
-REST API integrations, authentication, location-based functionality,
-performance optimization, and business-oriented mobile solutions.
+### Flutter Developer. Problem Solver. Continuous Learner.
 
-I focus on writing maintainable code, improving application reliability,
-and delivering features that solve real problems.
-
-- 📱 **Mobile Development:** Building production-ready Flutter applications.
-- 🤖 **AI Integration:** Exploring and integrating AI capabilities into mobile products.
-- ⚡ **Performance:** Refactoring code, reducing unnecessary work, and improving UI responsiveness.
-- 🔌 **Backend Integration:** Connecting applications to APIs, databases, and authentication systems.
-- 🚀 **App Publishing:** Working with Google Play Console and Apple App Store releases.
-- 🏗️ **Engineering Growth:** Learning backend development, system design, and scalable architectures.
-
-> I care about more than making an application work.
-> I want to understand why it works, how it scales, and how to make it better.
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-</p>
-
-### Backend & Data
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=121212" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-1E1E1F?style=flat-square&logo=fastapi&logoColor=FFDB70" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Serverpod-1E1E1F?style=flat-square&logo=dart&logoColor=FFDB70" alt="Serverpod"/>
-</p>
-
-### AI & Productivity
-<p>
-  <img src="https://img.shields.io/badge/AI%20Integration-1E1E1F?style=flat-square&logo=openai&logoColor=FFDB70" alt="AI Integration"/>
-  <img src="https://img.shields.io/badge/AI--Assisted%20Development-1E1E1F?style=flat-square&logo=githubcopilot&logoColor=FFDB70" alt="AI-Assisted Development"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=121212" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play Console"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-A selection of projects that demonstrate my experience building mobile
-applications across different domains.
-
-### 01. Opsyra
-**Business-focused mobile application**
-
-- Working with application features, integrations, and release workflows.
-- Applying practical Flutter development and debugging skills.
-
-**Focus:** Flutter · API Integration · Application Delivery
-
-### 02. SLMS360 Management
-**School Management System**
-
-A school management application supporting day-to-day administrative
-and staff workflows.
-
-- Staff attendance and QR-based verification.
-- Leave management, salary information, and announcements.
-- Location-based attendance verification.
-- Performance optimization and code improvements.
-
-**Focus:** Flutter · REST APIs · Location Services · QR Attendance
-
-### 03. Toddlers App Staff
-**Education & Classroom Management**
-
-A mobile application designed to support school staff and classroom operations.
-
-- Attendance and attendance history.
-- Classroom activities and timetables.
-- Salary information and staff communication.
-- UI restructuring and performance improvements.
-
-**Focus:** Flutter · UI/UX · State Management · Refactoring
-
-### 04. DeenLink: My Dua's
-**Islamic Utility Application**
-
-A mobile experience focused on Islamic content and everyday worship.
-
-- Duas and Azkar.
-- Quran reading functionality.
-- Offline access to selected content.
-- Reading preferences and usability improvements.
-
-**Focus:** Flutter · Offline Data · Arabic Text · Mobile UX
-
-### 05. BloodSync
-**Healthcare & Blood Donation**
-
-A project exploring a digital approach to connecting people with blood
-donation needs.
-
-**Focus:** Flutter · Mobile Application Development · Problem Solving
+Building production-ready Android and iOS applications with **Flutter**, integrating AI, and turning complex requirements into reliable digital products.
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/01-FFDB70?style=for-the-badge&labelColor=1E1E1F" alt="01"/>
+
+### 📱 Build
+
+Scalable cross-platform applications with intuitive interfaces.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/02-FFDB70?style=for-the-badge&labelColor=1E1E1F" alt="02"/>
+
+### ⚡ Optimize
+
+Improve performance, code quality, and maintainability.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-FFDB70?style=for-the-badge&labelColor=1E1E1F" alt="03"/>
+
+### 🤖 Integrate
+
+Connect APIs, backend services, and AI capabilities.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✦ Tech Stack
+
 <div align="center">
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
+
+<br/><br/>
+
+### 🎨 UI & Architecture
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Responsive%20UI-1E1E1F?style=for-the-badge&logo=flutter&logoColor=FFDB70" alt="Responsive UI"/>
+<img src="https://img.shields.io/badge/State%20Management-1E1E1F?style=for-the-badge&logo=dart&logoColor=FFDB70" alt="State Management"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1F?style=for-the-badge&logo=buffer&logoColor=FFDB70" alt="Clean Architecture"/>
+
+<br/><br/>
+
+### 🔌 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,postgres,supabase&theme=dark" alt="Firebase, PostgreSQL and Supabase"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-1E1E1F?style=for-the-badge&logo=fastapi&logoColor=FFDB70" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Serverpod-1E1E1F?style=for-the-badge&logo=dart&logoColor=FFDB70" alt="Serverpod"/>
+<img src="https://img.shields.io/badge/Authentication-1E1E1F?style=for-the-badge&logo=auth0&logoColor=FFDB70" alt="Authentication"/>
+
+<br/><br/>
+
+### 🤖 AI & Integrations
+
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="OpenAI"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Integration-1E1E1F?style=for-the-badge&logo=openai&logoColor=FFDB70" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-1E1E1F?style=for-the-badge&logo=googlegemini&logoColor=FFDB70" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/Google%20Maps-1E1E1F?style=for-the-badge&logo=googlemaps&logoColor=FFDB70" alt="Google Maps"/>
+<img src="https://img.shields.io/badge/Geolocation-1E1E1F?style=for-the-badge&logo=googlemaps&logoColor=FFDB70" alt="Geolocation"/>
+
+<br/><br/>
+
+### ⚙️ Development & Release Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,apple,docker&theme=dark" alt="Git, GitHub, Android Studio, VS Code, Apple and Docker"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google%20Play%20Console-1E1E1F?style=for-the-badge&logo=googleplay&logoColor=FFDB70" alt="Google Play Console"/>
+<img src="https://img.shields.io/badge/App%20Store%20Connect-1E1E1F?style=for-the-badge&logo=appstore&logoColor=FFDB70" alt="App Store Connect"/>
+<img src="https://img.shields.io/badge/CI%2FCD-1E1E1F?style=for-the-badge&logo=githubactions&logoColor=FFDB70" alt="CI/CD"/>
+
+</div>
+
+---
+
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏫 SLMS360
+
+**SCHOOL MANAGEMENT SYSTEM**
+
+</div>
+
+---
+
+Staff operations and attendance management for educational institutions.
+
+**Key Features**
+
+- QR-based staff attendance
+- Location-based verification
+- Staff, leave, and salary workflows
+- Application performance improvements
+
+<br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
+<img src="https://img.shields.io/badge/REST%20APIs-1E1E1F?style=flat-square&logo=fastapi&logoColor=FFDB70" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/GEOLOCATION-1E1E1F?style=flat-square&logo=googlemaps&logoColor=FFDB70" alt="Geolocation"/>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎨 Toddlers App Staff
+
+**EDUCATION & STAFF MANAGEMENT**
+
+</div>
+
+---
+
+A mobile application supporting classroom and staff workflows.
+
+**Key Features**
+
+- Attendance and history
+- Classroom activities
+- Timetables and communication
+- UI restructuring and optimization
+
+<br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
+<img src="https://img.shields.io/badge/UI%2FUX-1E1E1F?style=flat-square&logo=figma&logoColor=FFDB70" alt="UI and UX"/>
+<img src="https://img.shields.io/badge/REFACTORING-1E1E1F?style=flat-square&logo=dart&logoColor=FFDB70" alt="Refactoring"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🕌 DeenLink
+
+**ISLAMIC UTILITY APPLICATION**
+
+</div>
+
+---
+
+An Islamic mobile experience designed around Quran reading and everyday worship.
+
+**Key Features**
+
+- Quran reading
+- Duas and Azkar
+- Offline content
+- Reading experience improvements
+
+<br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
+<img src="https://img.shields.io/badge/OFFLINE%20SUPPORT-1E1E1F?style=flat-square&logo=databricks&logoColor=FFDB70" alt="Offline Support"/>
+<img src="https://img.shields.io/badge/ARABIC%20CONTENT-1E1E1F?style=flat-square&logo=readme&logoColor=FFDB70" alt="Arabic Content"/>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🩸 BloodSync
+
+**BLOOD DONATION**
+
+</div>
+
+---
+
+A project focused on using mobile technology to support blood donation needs.
+
+**Project Focus**
+
+- Mobile-first experience
+- User-facing workflows
+- Healthcare-oriented problem solving
+- Cross-platform development
+
+<br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-1E1E1F?style=flat-square&logo=flutter&logoColor=FFDB70" alt="Flutter"/>
+<img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-1E1E1F?style=flat-square&logo=android&logoColor=FFDB70" alt="Mobile Development"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
 
 <a href="https://waleedtaj.github.io/projects/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Explore all projects"/>
 </a>
 
 </div>
 
 ---
 
-## 💡 What I Work On
-
-| Area | Focus |
-|:---|:---|
-| 📱 Mobile Engineering | Cross-platform Android and iOS applications |
-| 🎨 UI/UX Development | Responsive layouts and reusable widgets |
-| 🔌 API Integration | REST APIs, authentication, and data handling |
-| 📍 Location Features | Maps, location services, and attendance verification |
-| ⚡ Optimization | Performance improvements, debugging, and refactoring |
-| 🤖 AI Integration | Adding AI-powered capabilities to applications |
-| 🏗️ Backend Engineering | Serverpod, PostgreSQL, and system design |
-| 🚀 App Releases | Google Play Console and Apple App Store workflows |
-
----
-
-## 🌱 Currently Exploring
-
-- AI-powered features and practical AI integrations.
-- Serverpod and backend development with Dart.
-- System design and scalable application architecture.
-- Database design, caching, and API performance.
-- CI/CD and reliable mobile application release workflows.
-
-My goal is to grow from a strong Flutter developer into a well-rounded
-software engineer who understands the complete application lifecycle.
-
----
-
-## 📊 GitHub Activity
+## ✦ GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&hide_border=true&bg_color=1E1E1F&title_color=FFDB70&icon_color=FFDB70&text_color=D6D6D6" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WaleedTaj&show_icons=true&hide_border=true&bg_color=1E1E1F&title_color=FFDB70&icon_color=FFDB70&text_color=D6D6D6&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedTaj&layout=compact&hide_border=true&bg_color=1E1E1F&title_color=FFDB70&text_color=D6D6D6" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedTaj&layout=compact&hide_border=true&bg_color=1E1E1F&title_color=FFDB70&text_color=D6D6D6" alt="Most Used Languages"/>
+
+<img width="86%" src="https://streak-stats.demolab.com?user=WaleedTaj&hide_border=true&background=1E1E1F&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70&sideLabels=D6D6D6&currStreakNum=D6D6D6&sideNums=D6D6D6&dates=7C7C7C" alt="GitHub Contribution Streak"/>
+
+<!--  <br/><br/>
+
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=WaleedTaj&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="800" alt="GitHub Trophies"/>
+-->
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFDB70" width="100%" alt="Gold divider"/>
+
+### Let's Build Something Meaningful ✨
+
+Open to exciting Flutter projects, engineering collaboration, and new opportunities.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=WaleedTaj&hide_border=true&background=1E1E1F&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70&sideLabels=D6D6D6&currStreakNum=D6D6D6&sideNums=D6D6D6&dates=7C7C7C" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in working on meaningful products, collaborating with
-engineering teams, and solving real-world problems through software.
-
-Whether it's a Flutter project, a mobile engineering opportunity,
-or an idea involving AI, I'd be happy to connect.
-
-<div align="center">
-
 <a href="https://waleedtaj.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FFDB70?style=for-the-badge&logo=googlechrome&logoColor=121212" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4">
-  <img src="https://img.shields.io/badge/LinkedIn-1E1E1F?style=for-the-badge&logo=linkedin&logoColor=FFDB70" alt="LinkedIn"/>
-</a>
+<br/><br/>
 <a href="https://github.com/WaleedTaj">
   <img src="https://img.shields.io/badge/GitHub-1E1E1F?style=for-the-badge&logo=github&logoColor=FFDB70" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/waleed-mehmood-8119202b4">
+  <img src="https://img.shields.io/badge/LINKEDIN-1E1E1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=FFDB70" alt="LinkedIn"/>
+</a>
 </a>
 <a href="mailto:waleedtaj420@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E1E1F?style=for-the-badge&logo=gmail&logoColor=FFDB70" alt="Email"/>
 </a>
+<br/><br/>
+<sub>Flutter · AI · Mobile Engineering · Continuous Learning</sub>
 
 <br/><br/>
 
-**Building useful things. Improving every day. Engineering with purpose.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FFDB70,100:121212" width="100%" alt="Gold footer"/>
 
 </div>
